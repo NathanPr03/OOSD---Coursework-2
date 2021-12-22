@@ -1,0 +1,178 @@
+19:34 22/11/21 New Courier Added - id = 10, type = Cycle
+19:37 22/11/21 Couriers read CSV file 1 
+19:37 22/11/21 Couriers written to CSV file 1 
+19:37 22/11/21 Information printed for area(s): EH10 
+19:37 22/11/21 New Courier Added - id = 10, type = Cycle
+19:37 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 1
+19:37 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 1
+19:37 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 1
+19:37 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 1
+19:37 22/11/21 Couriers written to CSV file 1 10 
+19:37 22/11/21 Information printed for area(s): EH10 
+19:46 22/11/21 New Courier Added - id = 10, type = Cycle
+19:46 22/11/21 Information printed for area(s): EH10 
+19:46 22/11/21 Information printed for area(s): EH10 
+19:46 22/11/21 Couriers written to CSV file 10 1 
+19:46 22/11/21 Information printed for area(s): EH10 
+19:46 22/11/21 New Courier Added - id = 101, type = Cycle
+19:46 22/11/21 Couriers written to CSV file 10 1 101 
+19:46 22/11/21 Information printed for area(s): EH10 
+19:46 22/11/21 New Courier Added - id = 1011, type = Cycle
+19:46 22/11/21 Information printed for area(s): EH10 
+19:47 22/11/21 Couriers read CSV file 10 1 101 
+19:47 22/11/21 Information printed for area(s): EH10 
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 Information printed for area(s): EH10 
+19:47 22/11/21 New Courier Added - id = 10, type = Cycle
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:47 22/11/21 Information printed for area(s): EH10 
+19:47 22/11/21 Information printed for area(s): EH10 
+19:48 22/11/21 Couriers read CSV file 10 1 101 
+19:48 22/11/21 Information printed for area(s): EH10 
+19:48 22/11/21 New Courier Added - id = 10, type = Cycle
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 Information printed for area(s): EH10 
+19:48 22/11/21 New Courier Added - id = 10, type = Cycle
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:48 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:49 22/11/21 New Courier Added - id = 10, type = Cycle
+19:49 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:49 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:49 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:49 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:49 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:49 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:49 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:49 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:49 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:49 22/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+19:49 22/11/21 Information printed for area(s): EH10 
+19:49 22/11/21 Information printed for area(s): EH10 
+19:50 22/11/21 New Courier Added - id = 10, type = Cycle
+19:57 22/11/21 New Courier Added - id = 10, type = Cycle
+19:57 22/11/21 Information printed for area(s): EH10 
+20:07 24/11/21 New Courier Added - id = 10, type = Cycle
+20:07 24/11/21 Information printed for area(s): EH10 
+20:07 24/11/21 Couriers written to CSV file 10 
+20:07 24/11/21 Information printed for area(s): EH10 
+20:07 24/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+20:07 24/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+20:07 24/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+20:07 24/11/21 Information printed for area(s): EH10 
+20:12 24/11/21 New Courier Added - id = 12, type = Cycle
+20:12 24/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 12
+20:12 24/11/21 New Parcel Added (EH10 7JA, "Nathan", 0) Allocated to Courier 12
+20:13 24/11/21 New Courier Added - id = 10, type = Cycle
+20:13 24/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+20:13 24/11/21 New Parcel Added (EH10 7JA, "Nathan", 0) Allocated to Courier 10
+20:15 24/11/21 New Courier Added - id = 10, type = Van
+20:15 24/11/21 New Courier Added - id = 0, type = Van
+20:19 24/11/21 New Courier Added - id = 0, type = Cycle
+20:19 24/11/21 New Courier Added - id = 0, type = Van
+20:21 24/11/21 New Courier Added - id = 10, type = Cycle
+20:21 24/11/21 New Courier Added - id = 101, type = Cycle
+20:21 24/11/21 New Courier Added - id = 1011, type = Cycle
+20:21 24/11/21 New Courier Added - id = 0, type = Cycle
+20:24 24/11/21 New Courier Added - id = 10, type = Cycle
+20:24 24/11/21 New Courier Added - id = 101, type = Cycle
+20:24 24/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+20:24 24/11/21 Information printed for area(s): EH10 
+20:24 24/11/21 Parcel  transferred from Courier 10 to Courier 101
+20:24 24/11/21 Information printed for area(s): EH10 
+20:32 24/11/21 New Courier Added - id = 10, type = Cycle
+20:32 24/11/21 New Parcel Added (EH10 7JA, "Nathan", 1) Allocated to Courier 10
+20:32 24/11/21 New Courier Added - id = 101, type = Cycle
+20:32 24/11/21 Information printed for area(s): EH10 
+20:32 24/11/21 Information printed for area(s): EH10 
+20:32 24/11/21 Parcel  transferred from Courier 10 to Courier 101
+20:32 24/11/21 Information printed for area(s): EH10 
+19:30 25/11/21 New Courier Added - id = 2, type = Van
+19:30 25/11/21 Information printed for area(s): EH5 
+19:31 25/11/21 New Parcel Added (EH5 7JA, "nathy", 3) Allocated to Courier 2
+19:31 25/11/21 Information printed for area(s): EH5 
+19:31 25/11/21 New Courier Added - id = 21, type = Van
+19:31 25/11/21 Parcel  transferred from Courier 2 to Courier 21
+19:31 25/11/21 Information printed for area(s): EH5 
+19:31 25/11/21 Information printed for area(s): EH5 
+19:31 25/11/21 Information printed for Courier 2
+19:31 25/11/21 Information printed for Courier 21
+10:37 30/11/21 New Courier Added - id = 1, type = Van
+10:38 30/11/21 Information printed for area(s): EH8 
+10:39 30/11/21 New Parcel Added (EH8 7JA, "Nathan", 1) Allocated to Courier 1
+10:39 30/11/21 Information printed for area(s): EH8 
+10:39 30/11/21 Information printed for area(s): EH8 
+12:00 30/11/21 New Courier Added - id = 1, type = Van
+12:00 30/11/21 Information printed for area(s): EH8 
+12:01 30/11/21 New Courier Added - id = 2, type = Van
+12:01 30/11/21 Information printed for area(s): EH8 EH10 
+12:01 30/11/21 Information printed for area(s): EH8 EH10 
+12:01 30/11/21 New Courier Added - id = 3, type = Walking
+12:01 30/11/21 New Courier Added - id = 4, type = Walking
+12:01 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:02 30/11/21 New Courier Added - id = 5, type = Cycle
+12:02 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:03 30/11/21 New Parcel Added (EH8, "Nathan", 2) Allocated to Courier 1
+12:03 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:03 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:03 30/11/21 New Parcel Added (EH8, "Nathan", 2) Allocated to Courier 1
+12:03 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:03 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:03 30/11/21 New Parcel Added (EH8, "Nathan", 3) Allocated to Courier 1
+12:03 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:03 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:03 30/11/21 Parcel  transferred from Courier 1 to Courier 2
+12:03 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:04 30/11/21 Information printed for Courier 2
+12:04 30/11/21 Couriers written to CSV file 1 2 3 4 5 
+12:04 30/11/21 Couriers read from CSV file 1 2 3 4 5 
+12:04 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:05 30/11/21 Couriers written to CSV file 1 2 3 4 5 
+12:09 30/11/21 New Courier Added - id = 11, type = Walking
+12:09 30/11/21 New Courier Added - id = 13, type = Cycle
+12:09 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:11 30/11/21 New Parcel Added (EH2, "Nathan", 99) Allocated to Courier 4
+12:11 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:11 30/11/21 New Parcel Added (EH2, "Yanchao", 99) Allocated to Courier 5
+12:11 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:11 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:12 30/11/21 Information printed for area(s): EH8 EH10 EH2 
+12:12 30/11/21 Information printed for Courier 4
+12:17 30/11/21 New Courier Added - id = 1, type = Van
+12:17 30/11/21 New Parcel Added (EH8 7JA, "asdasd", 1) Allocated to Courier 1
+12:17 30/11/21 Information printed for area(s): EH8 
+12:18 30/11/21 New Parcel Added (EH8 7JA, "asdasd", 1) Allocated to Courier 1
+12:18 30/11/21 Information printed for area(s): EH8 
